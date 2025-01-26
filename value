@@ -1,1 +1,4 @@
-true
+local t = {}
+t.q = function()
+    return true
+end
